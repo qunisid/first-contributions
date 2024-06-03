@@ -109,6 +109,7 @@ aiymzhann08
 - [Palash]
 - [Rajan Poudel](https://github.com/rajan-poudel)
 - [Sonu]
+- [qunisid]
 - [Heimar Vega](https://github.com/heimarvega)
 - [Ik Teng](https://github.com/ikteng)
 - [Jiri Cizek] ** first merge :) **
